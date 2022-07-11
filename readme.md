@@ -1,1 +1,1 @@
-recipe project created by html
+Recipe project created by html
